@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4kipkorir
+- 👋 Hi, I’m Dennis Kipkorir
 - 👀 I have a strong interest in data science. What excites me the most is leveraging data to gain valuable insights and tackle the challenges that society is currently    facing.
 - 🌱 I'm currently diving into the exciting world of Machine Learning.
 - 💞️ I’m looking to collaborate on any Data Science project.
